@@ -1,4 +1,4 @@
-### 퀀트(금융공학)
+### 금융에서 많이 쓰이는 모델
 
 #### 실습
 - Linear Regression  
@@ -14,5 +14,3 @@ https://www.notion.so/K-centroid-Clustering-22d47a380dc880dda937df5a8e7c7116?sou
 https://www.notion.so/Principal-Component-Analysis-22f47a380dc88036983bfd2b6c7002af?source=copy_link  
 코드 보기 [✔️](./notebooks/3.%20DataAnalysis_Unsupervised.ipynb)
 
-
-- Linear Regression For Time Series
